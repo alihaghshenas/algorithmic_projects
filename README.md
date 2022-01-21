@@ -1,1 +1,18 @@
-# algorithmic_projects
+# algorithmic projects
+- custom random
+- positive or negetive
+- avg of inputs
+- captcha code
+- advance captcha
+- custom length calculate
+- sum of each number
+- custom pow(x,y)
+- factorial
+- quiz system
+- fibunachi
+- repeated number
+- 8 ball
+- fizz buzz
+- rock paper scissors
+- random password generator
+- palindrom
