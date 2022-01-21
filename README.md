@@ -1,4 +1,4 @@
-# algorithmic projects
+# 17 algorithmic projects
 - custom random
 - positive or negetive
 - avg of inputs
