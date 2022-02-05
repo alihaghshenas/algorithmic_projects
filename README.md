@@ -23,3 +23,6 @@
 - most repeated number
 - sort array
 - 1000 digits of PI number
+
+## Changes
+here are some changes
